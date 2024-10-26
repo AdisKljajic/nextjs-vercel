@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# NextJS Deployment Preview
+![alt text](https://github.com/AdisKljajic/nextjs-vercel/blob/main/nextjs_deployment.png?raw=true)
+
 ## Getting Started
 
 First, run the development server:
